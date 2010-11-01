@@ -3,7 +3,6 @@ Hello,
 This is a Repository of small and lightweight MiniApps for Mac OS X.
 Mostly, these are small Shellscripts that should be wrapped as an Application, using AppleScript Editor.
 
-
   1. Open /Applications/Utilities/AppleScript Editor
   2. Paste the Code
   3. Test and save as Application
